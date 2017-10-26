@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/blackflagbin/.android/build-cache/5e42a9aec81cb07bc48d2a166b94b781ded59a66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="329d183b1f3a1a6c77dca550ad63fd81ab90b2fe">
+        <dex dex="/Users/blackflagbin/AndroidStudioProjects/CloudIntercomDemo/app/build/intermediates/pre-dexed/debug/classes_0d2c69b48a78bc0c2a41730141c706ac7f0baa65.jar" />
+    </item>
+
+</items>

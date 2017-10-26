@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:title="相关设置"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/community"
+        android:title="选择小区"
+        app:showAsAction="always"/>
+
+</menu>
